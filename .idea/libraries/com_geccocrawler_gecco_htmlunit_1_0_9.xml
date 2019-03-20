@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="com.geccocrawler:gecco-htmlunit:1.0.9" type="repository">
+    <properties maven-id="com.geccocrawler:gecco-htmlunit:1.0.9" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gecco-htmlunit-1.0.91.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gecco-1.0.91.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.8.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reflections-0.9.101.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-15.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.19.0-GA1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-2.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.81.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.171.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-3.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-5.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-1.9.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-launcher-1.9.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rhino-1.7.7.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmxutils-1.191.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlunit-2.201.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xalan-2.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/serializer-2.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpmime-4.5.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.101.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlunit-core-js-2.171.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.11.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.4.011.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nekohtml-1.9.221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cssparser-0.9.181.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sac-1.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-client-9.2.15.v201602101.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.2.15.v201602101.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.2.15.v201602101.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-common-9.2.15.v201602101.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-api-9.2.15.v201602101.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
